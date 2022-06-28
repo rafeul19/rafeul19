@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-<img src="https://c.tenor.com/mZuCRpWtld4AAAAC/be-doo-be-doo-minion.gif" length="50" width="50">
+<img src="https://c.tenor.com/mZuCRpWtld4AAAAC/be-doo-be-doo-minion.gif" length="130" width="130">
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
