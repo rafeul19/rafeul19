@@ -67,7 +67,7 @@
 
 
 <p align='center'>
-<img src="https://i.pinimg.com/originals/b6/0c/d0/b60cd0cfee7f9cc0e0e44165d749e320.gif" width="100%" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="https://i.pinimg.com/originals/b6/0c/d0/b60cd0cfee7f9cc0e0e44165d749e320.gif" width="100%" height="100%" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 
 ## 🛠️ My Skills
