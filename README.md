@@ -5,17 +5,20 @@
 </h1>
 
 <p align="center">
-<img src="https://c.tenor.com/mZuCRpWtld4AAAAC/be-doo-be-doo-minion.gif" length="130" width="130">
+<img src="https://camo.githubusercontent.com/a4b8e71dcebc189f59931b5ca6879b9b34fd1c5ec384bd46efa0fe56cd8a215e/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f736974652f686f6d652f617374726f2d6d6f6e612e6a7067" length="250" width="250">
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 <h2 align="center">Full Stack  Developer || AI Enthusiast || Web Developer || Artificial Intelligence  || IoT || Machine Learning || Deep Learning|| Web || Data Analytics || Data Visualization || Quantum Computing Enthusiast || Open-source Contributor  ||  Life-Long Learner and Reader 🧑‍💻</h2>
 <br>
 
 ## Quotes 📜:
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <br>
+
 <h3 align="center">Read in the Name of your Lord who created; created man from a clinging mass. Read, and your Lord is the most generous, who taught by the pen, taught man what he did not know. Indeed man becomes rebellious when he considers himself without need. 
 <br>
 <br>
@@ -24,7 +27,9 @@
 
 <h2> Here's some fun facts about me: </h2>
 
-<img width="40%" align="right" alt="Github Header" src="Images/git-header.svg" />
+
+
+<br>
 
 <p>
   
