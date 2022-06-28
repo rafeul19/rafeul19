@@ -62,13 +62,7 @@
 - **English** 🔤
 - **Hindi - हिन्दी**
 
-<br><br>
-
-
-
-<p align='center'>
-<img src="https://i.pinimg.com/originals/b6/0c/d0/b60cd0cfee7f9cc0e0e44165d749e320.gif" width="800" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-
+<br>
 
 ## 🛠️ My Skills
 <br>
