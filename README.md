@@ -25,7 +25,7 @@
 <h5 align="center"><b>---- From The Holy Quran { Surah al-ʿAlaq ( العلق ) } </b></h5> </h3>
 <br>
 
-<h2> Here's some fun facts about me: </h2>
+<h2> Here's some facts about me: </h2>
 
 
 
