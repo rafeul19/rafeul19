@@ -10,7 +10,7 @@
 
 <br>
 
-<h2 align="center">Full Stack  Developer || AI Enthusiast || Web Developer || Artificial Intelligence  || IoT || Machine Learning || Deep Learning|| Web || Data Analytics || Data Visualization || Quantum Computing Enthusiast || Open-source Contributor  ||  Life-Long Learner and Reader 🧑‍💻</h2>
+<h2 align="center">Full Stack  Developer || AI Enthusiast || Web Developer || Artificial Intelligence  || IoT || Machine Learning || Deep Learning||  Data Analytics || Data Visualization || Quantum Computing Enthusiast || Open-source Contributor  ||  Life-Long Learner and Reader 🧑‍💻</h2>
 <br>
 
 ## Quotes 📜:
@@ -179,7 +179,7 @@
 <h3 align="left">Profile Views: 🧐</h3>
   
 
-![Profile views](https://gpvc.arturio.dev/rafeul19 ) 
+![Profile Views](https://komarev.com/ghpvc/?username=rafeul19&style=for-the-badge) 
 
 <br>
 
