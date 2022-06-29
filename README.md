@@ -192,7 +192,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafeul19&theme=chartreuse-dark)
 <img align="right" height='130px' src="https://github-readme-stats.vercel.app/api?username=rafeul19&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
 <br>
-
+<br>
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=rafeul19&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
 <br>
 
 ##  Have a Smiley Day...😃 
