@@ -199,3 +199,7 @@
 <br>
 
 <br>
+
+<!--FOOTER--> 
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+<p align="right">
