@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
+<br>
 <h1 align="center">Hey there, I'm Rafe ( রাফি , راف , राफे , レイフ , رافے۔ , Рейф , 雷夫 , רייף )
 
 <br>
@@ -11,7 +13,8 @@
 <br>
 
 <h2 align="center">Full Stack  Developer || AI Enthusiast || Web Developer || Artificial Intelligence  || IoT || Machine Learning || Deep Learning||  Data Analytics || Data Visualization || Quantum Computing Enthusiast || Open-source Contributor  ||  Life-Long Learner and Reader 🧑‍💻</h2>
-<br>
+<p align='center'>
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 ## Quotes 📜:
 
@@ -171,6 +174,8 @@
 <a href="https://www.credly.com/badges/932a63e9-92d2-4e9b-a074-bd9e3a56d01b/public_url" target="blank"><img src="https://images.credly.com/size/340x340/images/c6f4a830-11d9-46ba-a061-8ac2e5a099e9/Explore_Emerging_Tech.png" alt="google Badge" width="120" height="120"></a>
 
 <br>
+
+ 
   
 ## &#x1f4c8; My GitHub Stats🎯
  
