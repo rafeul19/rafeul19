@@ -30,10 +30,6 @@
 
 <h2> Here's some facts about me: </h2>
 
-
-
-<br>
-
 <p>
   
 - 🎓 **At this movement I am doing B.Sc in CSE (Bachelor of Science in Computer Science & Engineering ) - Final year @ Daffodil International University**.🏦
