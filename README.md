@@ -14,7 +14,7 @@
 
 <h2 align="center">Full Stack  Developer || AI Enthusiast || Web Developer || Artificial Intelligence  || IoT || Machine Learning || Deep Learning||  Data Analytics || Data Visualization || Quantum Computing Enthusiast || Open-source Contributor  ||  Life-Long Learner and Reader 🧑‍💻</h2>
 <p align='center'>
-<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+</p>
 
 ## Quotes 📜:
 
