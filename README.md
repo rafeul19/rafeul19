@@ -160,6 +160,8 @@
 
 <br>
 
+<a href="https://www.credly.com/badges/751ca4a2-ae3a-48b4-911e-533d56f941c3/public_url" target="blank"><img src="https://images.credly.com/size/680x680/images/e85903f3-153e-4ec4-bf39-53990a932e46/image.png" alt="Agle ibm" width="120" height="120"></a>
+
 <a href="https://www.credly.com/badges/20f7e44e-2bd5-45ab-802d-d758cf832a6a/public_url" target="blank"><img src="https://images.credly.com/size/340x340/images/89e728ec-27f8-49ce-a8ea-2df7768f9594/Agile_Explorer.png" alt="Agle ibm" width="120" height="120"></a>
 <a href="https://www.credly.com/badges/d2756627-d315-402f-ab94-bb156753eb9d/public_url" target="blank"><img src="https://images.credly.com/size/340x340/images/e769c58d-0912-4fc4-84fe-bff61d3cad28/Professional_Certificate_-_Applied_AI.png" alt="AIe" width="120" height="120"></a>
 <a href="https://www.credly.com/badges/91e33e75-f02a-4aa2-b887-f2f760d7b142/public_url"><img src="https://images.credly.com/size/340x340/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png" alt="AIpi" width="120" height="120"></a>
