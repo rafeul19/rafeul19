@@ -36,7 +36,7 @@
 - 🌱 **I’m currently working with Machine Learning and Deep Learning**.
 - ✅ **Looking for opportunities and collaborations in the field of Data science Machine Learning and Deep Learning Projects**. 
 - ⚡ **Seeking opportunities to work in a challenging environments and push my boundaries**. 💪
-- 📫 **How to reach me: rafeul1997@gmail.com**
+- 📫 **How to reach me: mdrafeulislamrafe@gmail.com**
 </p>
 
 <img width="50%" align="right" alt="Github Header" src="https://w.wallhaven.cc/full/q6/wallhaven-q61m2d.jpg" />
@@ -167,7 +167,7 @@
 <br>
 
 <a href="https://www.credly.com/badges/751ca4a2-ae3a-48b4-911e-533d56f941c3/public_url" target="blank"><img src="https://images.credly.com/size/680x680/images/e85903f3-153e-4ec4-bf39-53990a932e46/image.png" alt="Agle ibm" width="120" height="120"></a>
-<a href="https://www.credly.com/badges/20f7e44e-2bd5-45ab-802d-d758cf832a6a/public_url" target="blank"><img src="https://images.credly.com/size/340x340/images/89e728ec-27f8-49ce-a8ea-2df7768f9594/Agile_Explorer.png" alt="Agle ibm" width="120" height="120"></a>
+<a href="https://www.credly.com/badges/20f7e44e-2bd5-45ab-802d-d758cf832a6a/public_url" target="blank"><img src="https://images.credly.com/images/3b7846e2-bdbd-4ed6-8543-182f47502190/image.png" alt="Agle ibm" width="120" height="120"></a>
 <a href="https://www.credly.com/badges/d2756627-d315-402f-ab94-bb156753eb9d/public_url" target="blank"><img src="https://images.credly.com/size/340x340/images/e769c58d-0912-4fc4-84fe-bff61d3cad28/Professional_Certificate_-_Applied_AI.png" alt="AIe" width="120" height="120"></a>
 <a href="https://www.credly.com/badges/91e33e75-f02a-4aa2-b887-f2f760d7b142/public_url"><img src="https://images.credly.com/size/340x340/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png" alt="AIpi" width="120" height="120"></a>
 <a href="https://www.credly.com/badges/19c8192d-8418-40f1-b5b5-31b5d8cc7bcf/public_url" target="blank"><img src="https://images.credly.com/size/340x340/images/4b79cc62-d398-4d20-8a8b-ac15335ccc04/AI_Foundations_Specialization.png" alt="AIfound Badge" width="120" height="120"></a>
