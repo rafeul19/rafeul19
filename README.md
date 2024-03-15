@@ -30,7 +30,7 @@
 - 📫 **How to reach me: rafe.19.dev@gmail.com**
 </p>
 
-<img width="50%" align="right" alt="Github Header" src="https://w.wallhaven.cc/full/q6/wallhaven-q61m2d.jpg" />
+<img width="50%" align="right" alt="Github Header" src="https://i.imgur.com/3rTQjRi.gif" />
 
 <h3 align="left">Interests:</h3>
 
