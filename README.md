@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
 <br>
-<h1 align="center">Hey there, I'm Rafe ( রাফি , راف , राफे , レイフ , رافے۔ , Рейф , 雷夫 , רייף )
+<h1 align="center">Hey there,      I'm Rafe 
+
+( রাফি , راف , राफे , レイフ , رافے۔ , Рейф , 雷夫 , רייף )
 
 <br>
 
@@ -12,31 +14,20 @@
 
 <br>
 
-<h2 align="center">Full Stack  Developer || AI Enthusiast || Web Developer || Artificial Intelligence  || IoT || Machine Learning || Deep Learning||  Data Analytics || Data Visualization || Quantum Computing Enthusiast || Open-source Contributor  ||  Life-Long Learner and Reader 🧑‍💻</h2>
+<h2 align="center">Full Stack  Developer || AI Enthusiast || Web Developer || Artificial Intelligence  || IoT || Machine Learning || Deep Learning||  Data Analytics || Data Visualization || Quantum Computing Enthusiast || Open-source Contributor  ||  Life-Long Learner and Reader 
+
+👨‍💻</h2> 
 <p align='center'>
 </p>
-
-## Quotes 📜:
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<h3 align="center">Read in the Name of your Lord who created; created man from a clinging mass. Read, and your Lord is the most generous, who taught by the pen, taught man what he did not know. Indeed man becomes rebellious when he considers himself without need. 
-<br>
-<br>
-<h5 align="center"><b>---- From The Holy Quran { Surah al-ʿAlaq ( العلق ) } </b></h5> </h3>
-<br>
-
 <h2> Here's some facts about me: </h2>
 
 <p>
   
-- 🎓 **At this movement I am doing B.Sc in CSE (Bachelor of Science in Computer Science & Engineering ) - Final year @ Daffodil International University**.🏦
-- 🌱 **I’m currently working with Machine Learning and Deep Learning**.
-- ✅ **Looking for opportunities and collaborations in the field of Data science Machine Learning and Deep Learning Projects**. 
+- 🎓 **I'm a recent graduate with a B.Sc. in Computer Science & Engineering. My passion lies in the fascinating world of technology.**.🏦
+- ✅ **Looking for opportunities and collaborations in the field of Learning and Projects**. 
 - ⚡ **Seeking opportunities to work in a challenging environments and push my boundaries**. 💪
-- 📫 **How to reach me: mdrafeulislamrafe@gmail.com**
+- 📫 **How to reach me: rafe.19.dev@gmail.com**
 </p>
 
 <img width="50%" align="right" alt="Github Header" src="https://w.wallhaven.cc/full/q6/wallhaven-q61m2d.jpg" />
@@ -62,14 +53,8 @@
 - **Hindi - हिन्दी**
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-
-## 🛠️ My Skills
+# 🛠️ My Skills
 <br>
 
 ## **Languages and Tools🧰**<br>
@@ -183,29 +168,15 @@
 ## &#x1f4c8; My GitHub Stats🎯
  
 <br>
-
-<h3 align="left">Profile Views: 🧐</h3>
-  
-
-![Profile Views](https://komarev.com/ghpvc/?username=rafeul19&style=for-the-badge) 
-
-<br>
+<div style="text-align: center;">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafeul19&layout=pie" alt="Top Languages">
+    <br>
+</div>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafeul19&theme=chartreuse-dark)
-<img align="right" height='130px' src="https://github-readme-stats.vercel.app/api?username=rafeul19&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
-<br>
 
-
-##  Have a Smiley Day...😃 
-
-<br>
-
-  
-<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
-<br>
-
-<br>
+<h1 align='center'> Have a Smiley Day...😃 
 
 <!--FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
