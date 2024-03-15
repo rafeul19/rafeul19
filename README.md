@@ -30,7 +30,7 @@
 - 📫 **How to reach me: rafe.19.dev@gmail.com**
 </p>
 
-<img width="50%" align="right" alt="Github Header" src="https://i.imgur.com/3rTQjRi.gif" />
+<img width="50%" align="right" alt="Github Header" src="https://i.postimg.cc/T2zX1GtN/2JZkmtH.gif" />
 
 <h3 align="left">Interests:</h3>
 
