@@ -26,7 +26,7 @@
   
 - 🎓 **I'm a recent graduate with a B.Sc. in Computer Science & Engineering. My passion lies in the fascinating world of technology.**.🏦
 - ✅ **Looking for opportunities and collaborations in the field of Learning and Projects**. 
-- ⚡ **Seeking opportunities to work in a challenging environments and push my boundaries**. 💪
+- ⚡ **Seeking opportunities to work in a challenging environments and push my boundaries**. 
 - 📫 **How to reach me: rafe.19.dev@gmail.com**
 </p>
 
