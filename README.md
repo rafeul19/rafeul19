@@ -165,7 +165,7 @@
  
   
 ## &#x1f4c8; My GitHub Stats🎯
- 
+ [![](https://visitcount.itsvg.in/api?id=rafe19&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 <br>
 <div style="text-align: center;">
     <br>
