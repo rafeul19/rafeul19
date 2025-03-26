@@ -150,10 +150,11 @@
 
 <br>
 
-<a href="https://www.credly.com/badges/751ca4a2-ae3a-48b4-911e-533d56f941c3/public_url" target="blank"><img src="https://images.credly.com/images/9ae6708e-87bb-4a24-a48d-02315a8e012e/image.png" alt="Agle ibm" width="120" height="120"></a>
+<a href="https://www.credly.com/badges/751ca4a2-ae3a-48b4-911e-533d56f941c3/public_url" target="blank"><img src="https://images.credly.com/size/680x680/images/6ab043c6-a7cb-40ec-a4c5-c1ca7640fc19/blob" alt="Agle ibm" width="120" height="120"></a>
+
 <a href="https://www.credly.com/badges/20f7e44e-2bd5-45ab-802d-d758cf832a6a/public_url" target="blank"><img src="https://images.credly.com/images/3b7846e2-bdbd-4ed6-8543-182f47502190/image.png" alt="Agle ibm" width="120" height="120"></a>
-<a href="https://www.credly.com/badges/d2756627-d315-402f-ab94-bb156753eb9d/public_url" target="blank"><img src="https://images.credly.com/size/340x340/images/e769c58d-0912-4fc4-84fe-bff61d3cad28/Professional_Certificate_-_Applied_AI.png" alt="AIe" width="120" height="120"></a>
-<a href="https://www.credly.com/badges/91e33e75-f02a-4aa2-b887-f2f760d7b142/public_url"><img src="https://images.credly.com/size/340x340/images/b6aa0bc8-1f0a-4939-beef-d073fa3fff9c/image.png" alt="AIpi" width="120" height="120"></a>
+<a href="https://www.credly.com/badges/d2756627-d315-402f-ab94-bb156753eb9d/public_url" target="blank"><img src="https://images.credly.com/images/4cc305d5-5f90-427d-b42e-0a165092419a/blob" alt="AIe" width="120" height="120"></a>
+<a href="https://www.credly.com/badges/91e33e75-f02a-4aa2-b887-f2f760d7b142/public_url"><img src="https://images.credly.com/size/680x680/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" alt="AIpi" width="120" height="120"></a>
 <a href="https://www.credly.com/badges/19c8192d-8418-40f1-b5b5-31b5d8cc7bcf/public_url" target="blank"><img src="https://images.credly.com/size/340x340/images/4b79cc62-d398-4d20-8a8b-ac15335ccc04/AI_Foundations_Specialization.png" alt="AIfound Badge" width="120" height="120"></a>
 <a href="https://www.credly.com/badges/cad19126-b3ed-404b-8497-bed2c162c47a/public_url"><img src="https://images.credly.com/size/340x340/images/a8e890b4-d484-4e04-b521-fba516a8c3cd/coursera-specialization-badge.png" alt="open" width="120" height="120"></a>
 <a href="https://www.credly.com/badges/00b8acc4-cfce-40e8-b004-ac136eefaedf/public_url" target="blank"><img src="https://images.credly.com/size/340x340/images/0a00ff19-2af2-452c-b855-a00f24e577dd/image.png" alt="cisco Badge" width="120" height="120"></a>
